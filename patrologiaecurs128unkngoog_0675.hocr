@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs128unkngoog_0675.png"; bbox 0 0 4124 6180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1260 601 1762 685">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1260 601 1762 685">
+     <span class='ocr_line' id='line_1_1' title="bbox 1260 601 1762 685; baseline -0.018 0"><span class='ocrx_word' id='word_1_1' title='bbox 1260 608 1287 685; x_wconf 81' lang='grc'>3</span> <span class='ocrx_word' id='word_1_2' title='bbox 1318 607 1429 684; x_wconf 84' lang='grc'>2044</span> <span class='ocrx_word' id='word_1_3' title='bbox 1459 604 1542 682; x_wconf 82' lang='grc'>073</span> <span class='ocrx_word' id='word_1_4' title='bbox 1574 602 1655 680; x_wconf 87' lang='grc'>505</span> <span class='ocrx_word' id='word_1_5' title='bbox 1686 601 1762 678; x_wconf 83' lang='grc'>281</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2066 6180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2066 6180">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2066 6180; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2066 6180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
